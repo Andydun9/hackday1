@@ -1,0 +1,53 @@
+/* 
+
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Noto Serif', serif;
+
+
+Black #000
+Red # B80c09
+White #fff
+Grey #3B413C
+
+*/
+
+.header{
+    background-color: #B80c09;
+    color: #fff;
+    font-family: 'PT Sans Narrow', sans-serif;
+    text-align: center;
+    padding: 2em;
+}
+
+.navtwo{
+    width: 2em;
+    float: left;
+    margin-left:1em;
+    margin-top: 2em;
+}
+
+
+.content{
+    width:65%;
+    margin: auto;
+}
+
+p{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: #3B413C;
+}
+
+h2{
+    color: #B80c09;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.dropdown{
+    margin-top: 2em;
+}

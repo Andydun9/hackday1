@@ -1,0 +1,90 @@
+/* 
+
+font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Noto Serif', serif;
+
+
+Black #000
+Red # B80c09
+White #fff
+Grey #3B413C
+
+
+
+
+
+
+*/
+
+
+
+
+body{
+    background-image: url(../images/landingPageBackground.JPG);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+h1{
+    font-family: 'Noto Serif', serif;
+    font-size: 3em;
+    text-align: center;
+    margin: 1.5em;
+    color: #fff;
+}
+
+.selection{
+display: inline-block;
+vertical-align: top;
+
+}
+
+#centering{
+margin-left:12%
+}
+
+select{
+    width:20em;
+    margin-left:15%;
+    
+}
+
+/* #selections{
+    margin:auto;
+    width:50%;
+} */
+
+.container{
+    margin: auto;
+    width:50%;
+    
+}
+
+h2{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #fff;
+    font-size: 2em;
+}
+
+a{
+    border: 2px #fff solid;
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    padding:2px;
+    text-decoration: none;
+}
+
+a:hover{
+    border: 2px #3B413C solid;
+    font-family: 'Ubuntu', sans-serif;
+    color: #3B413C;
+    padding:2px;
+    text-decoration: none;
+    background-color: #fff;
+}
+
